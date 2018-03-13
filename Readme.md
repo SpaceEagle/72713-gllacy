@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Евгения Салтыкова](https://up.htmlacademy.ru/htmlcss/20/user/72713).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Пойманов](https://htmlacademy.ru/profile/poymanov).
 
 ---
 
